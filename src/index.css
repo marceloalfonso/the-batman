@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Kdam+Thmor+Pro:regular);
+
+body {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: "Kdam Thmor Pro", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+}
+
+code {
+  font-family: "Kdam Thmor Pro", sans-serif;
+}
